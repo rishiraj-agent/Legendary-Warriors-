@@ -1,0 +1,6 @@
+{
+  "name": "Legendary Warriors",
+  "description": "An ultra-high graphics third-person shooter battle royale featuring 100-player squad matchmaking, super shields, gunsmith weapon customization, and tactical combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
